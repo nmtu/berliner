@@ -156,8 +156,7 @@ pre {
 /* Site Header */
 /* ============================================================ */
 .site-header {
-  /* border-top: 2px solid #303030; A black bar, same size as loading bar, for the header to hang from */
-  padding: 2.1px 0 20px; /* Original value: 100px - Arranged to give the loading bar just enough space to pass without overlapping or leaving a gap. */
+  padding: 0 0 20px;
   overflow: auto;
   text-align: center;
   text-transform: uppercase;
@@ -271,6 +270,7 @@ pre {
 /* ============================================================ */
 /* Post Index */
 /* ============================================================ */
+
 .post-list {
   border-top: 6px solid #303030;
   list-style: none;
