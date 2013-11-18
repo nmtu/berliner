@@ -1,6 +1,6 @@
-# Ghostwriter
+# Schiller
 
-A simple AJAX driven theme for [Ghost](http://github.com/tryghost/ghost/).
+A simple AJAX-driven theme for the [Ghost](http://github.com/tryghost/ghost/) blogging platform that began life as a fork of Ghostwriter.
 
 [View a demo of Ghostwriter](http://roryg.github.io/ghostwriter)
 
